@@ -1,7 +1,7 @@
 // --- 插件元数据 ---
-const PLUGIN_ID = 'html2canvas-pro';
-const PLUGIN_NAME = 'html2canvas-pro-custom'; // 修改名称以示区别
-const SCRIPT_VERSION = '4.0.0-custom'; // 新版本号
+const PLUGIN_ID = 'tsukimicapturing';
+const PLUGIN_NAME = 'tsukimicapturing'; // 也可以统一一下
+const SCRIPT_VERSION = '1.0.0'; // 可以重置一个清爽的版本号
 
 // --- [新功能] 自定义范围选择的状态变量 ---
 let customSelectionState = 'none'; // 'none', 'selecting_start', 'selecting_end'
@@ -986,3 +986,4 @@ jQuery(async () => {
     setTimeout(runInitialization, 1000);
   }
 });
+
