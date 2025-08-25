@@ -1,11 +1,12 @@
 {
-    "display_name": "html2canvas-pro",
+    "display_name": "tsukimicapturing",
     "loading_order": 5,
     "requires": [],
     "optional": [],
     "js": "index.js",
     "css": "style.css",
     "author": "",
-    "version": "3.0.0",
+    "version": "1.0.0",
     "homePage": ""
 }
+
